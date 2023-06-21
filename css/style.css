@@ -3013,7 +3013,7 @@ h6 {
     padding-top: 80px !important;
     padding-bottom: 80px !important;
     background-image: none !important;
-    background-color: #fcf8ff; }
+    background-color: #fcf8ff00; }
 
   /* Blog page Area css
   ============================================================================================ */
@@ -3307,6 +3307,7 @@ h6 {
     background: #fff;
     border-radius: 20px;
 }
+
 .call-buton .cc-calto-action-ripple {
 	z-index: 99999;
 	position: fixed;
