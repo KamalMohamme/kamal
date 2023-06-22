@@ -32,7 +32,8 @@ body {
   font-weight: 400;
   color: #777777;
   background: url(../img/body-bg.png) no-repeat center;
-  background-color: #333; }
+  background-color: #333; 
+    text-align: center;}
 
 h1,
 h2,
